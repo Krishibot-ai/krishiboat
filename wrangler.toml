@@ -1,7 +1,0 @@
-name = "krishibot"
-main = "worker.js"
-compatibility_date = "2024-01-01"
-
-# Static files (index.html, sw.js, manifest.json)
-[site]
-bucket = "./public"
